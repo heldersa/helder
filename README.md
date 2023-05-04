@@ -8,7 +8,7 @@ Currently a student from [GammaTechSchool][GammaTechSchool] and a newbie in Gith
 
 </p> :soccer: : I'm a big football fan, wishing to find the best talents all over the world using (not only) data analysis
 </p> :8ball: : The best way for me to have business meetings. You can (try to) beat me, just send an invite
-</p> :mortar_board: : Proud to be a <https://business-school.laliga.com> and <https://novasbe.unl.pt/en>
+</p> :mortar_board: : Proud to be a [LaLiga]<https://business-school.laliga.com> and [NOVA SBE] <https://novasbe.unl.pt/en> alumni
 
 [GammaTechSchool]: https://gammatech.school
 [LaLiga]: https://business-school.laliga.com
