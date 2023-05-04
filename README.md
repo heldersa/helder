@@ -1,6 +1,6 @@
 # helder
 
-# HELLO, I'M HELDER
+## HELLO, I'M HELDER
 
 Currently a student from [GammaTechSchool][GammaTechSchool] and a newbie in Github
 
