@@ -11,5 +11,5 @@ Currently a student from [GammaTechSchool][GammaTechSchool] and a newbie in Gith
 </p> :mortar_board: : Proud to be a [NOVA SBE][NOVA SBE] and [LaLiga][LaLiga] alumni
 
 [GammaTechSchool]: https://gammatech.school
-[LaLiga]: https://business-school.laliga.com/
-[NOVA SBE]: https://novasbe.unl.pt/en/
+[LaLiga]: https://business-school.laliga.com
+[NOVA SBE]: https://novasbe.unl.pt/en
