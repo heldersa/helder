@@ -10,7 +10,6 @@ Currently a student from [GammaTechSchool][GammaTechSchool] and a newbie in Gith
 </p> :8ball: : The best way for me to have business meetings. You can (try to) beat me, just invite
 </p> :mortar_board: : Proud to be a [NOVA SBE][NOVA SBE] and [LaLiga][LaLiga] alumni
 
-
 [GammaTechSchool]: https://gammatech.school
 [LaLiga]: https://business-school.laliga.com/
 [NOVA SBE]: https://www.novasbe.unl.pt/en/
