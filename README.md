@@ -12,4 +12,4 @@ Currently a student from [GammaTechSchool][GammaTechSchool] and a newbie in Gith
 
 [GammaTechSchool]: https://gammatech.school
 [LaLiga]: https://business-school.laliga.com/
-[NOVA SBE]: https://www.novasbe.unl.pt/en/
+[NOVA SBE]: https://novasbe.unl.pt/en/
